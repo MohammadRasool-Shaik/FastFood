@@ -1,4 +1,4 @@
-package com.sapient.fastfood;
+package org.rash.fastfood;
 
 import org.junit.BeforeClass;
 

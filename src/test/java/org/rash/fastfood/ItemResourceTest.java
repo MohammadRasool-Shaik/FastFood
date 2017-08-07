@@ -1,4 +1,4 @@
-package com.sapient.fastfood;
+package org.rash.fastfood;
 
 import javax.ws.rs.core.MediaType;
 
